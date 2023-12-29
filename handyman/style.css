@@ -5401,11 +5401,11 @@ form#contact_form {
     color: #fff;
 }
 .menu-quick-link-content ul li{
-    display: inline-block;
+    display: block;
     list-style: none;
 }
 .menu-quick-link-content ul li{
-    display: inline-block;
+    display: block;
     padding-bottom: 13px;
     padding-left: 25px;
     font-size: 16px;
@@ -5424,7 +5424,7 @@ form#contact_form {
     z-index: 1;
 }
 .menu-quick-link-content ul li a {
-    display: inline-block;
+    display: block;
     font-size: 16px;
     color: #f8f9fe;
     transition: .5s;
