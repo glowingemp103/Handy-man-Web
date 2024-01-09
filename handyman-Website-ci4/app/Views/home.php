@@ -68,7 +68,7 @@
 						<span><i class="flaticon-driver"></i></span>
 					</div>
 					<div class="feature-box-title">
-						<h2>Handyman</h2>
+						<h2>AC Maintenance </h2>
 						<p> Your all-in-one home service solution, catering to diverse needs efficiently.</p>
 					</div>
 					<div class="feature-icon-bottom text-right">
@@ -136,8 +136,8 @@
 					<div class="col-lg-12">
 						<div class="dreamit-section-title text-left">
 							<h5>About</h5>
-							<h2>12 Years Experience In The</h2>
-							<h2>Handyman <span>& Plumber</span></h2>
+							<h2>1-2 years Experience In </h2>
+							<h2>The <span>Handyman</span> </h2>
 							<div class="em_bar_bg text-left"></div>
 							<p>Crafting Excellence in Handyman & Plumbing Services for Two Decades, Building Trust Through Masterful Artistry and Unparalleled Customer Satisfaction in Every Home Service Endeavor.</p>
 						</div>
@@ -166,7 +166,7 @@
 							<p><i class="far fa-check-circle"></i> <span>Crafting Perfection: Masterful in handyman and plumbing.</span></p>
 						</div>
 						<div class="about-content-text">
-							<p><i class="far fa-check-circle"></i> <span>Reliable Partner: 12 Years of trusted quality service.</span></p>
+							<p><i class="far fa-check-circle"></i> <span>Reliable Partner: 11-2 years of trusted quality service.</span></p>
 						</div>
 						<div class="dreamit-button">
 							<a href="#">About More </a>
@@ -270,8 +270,8 @@
 								<i class="flaticon-cleaning-1"></i>
 							</div>
 							<div class="dreamit-service-title">
-								<h2>Cleaning Services</h2>
-								<p>* Gleaming spaces – Cleaning services shine.</p>
+								<h2> AC Maintenance </h2>
+								<p>  Expert care for lasting coolness. Schedule now!</p>
 							</div>
 						</div>
 					</div>
@@ -285,9 +285,9 @@
 								<i class="flaticon-electrician-5"></i>
 							</div>
 							<div class="dreamit-service-title1">
-								<h2>Roof Services</h2>
+								<h2>Other Service</h2>
 								<p>
-									"Roof care – We've got you covered."</p>
+									"Other Service – We've got you covered."</p>
 							</div>
 						</div>
 					</div>
@@ -334,15 +334,22 @@
                         </div>
                         <span class="fill my-class" data-percentage="91"></span>
                     </div>
-                    <span class="prosses-bar">Industrie Experience</span>
-                    <div id="bar3" class="barfiller">
+					<span class="prosses-bar">Electrician Experience</span>
+                    <div id="bar4" class="barfiller">
                         <div class="tipWrap">
                             <span class="tip"></span>
                         </div>
-                        <span class="fill my-class2" data-percentage="94"></span>
+                        <span class="fill my-class2" data-percentage="87"></span>
                     </div> 
-					<span class="prosses-bar">Electrician Experience</span>
-                    <div id="bar4" class="barfiller">
+					<span class="prosses-bar">Carpenter Experience</span>
+                    <div id="bar5" class="barfiller">
+                        <div class="tipWrap">
+                            <span class="tip"></span>
+                        </div>
+                        <span class="fill my-class2" data-percentage="90"></span>
+                    </div> 
+					<span class="prosses-bar">AC Maintenance Experience</span>
+                    <div id="bar6" class="barfiller">
                         <div class="tipWrap">
                             <span class="tip"></span>
                         </div>
@@ -388,11 +395,11 @@
 				<div class="col-lg-12 col-sm-12">
 					<div class="dreamit-single-case-study">
 						<div class="dreamit-case-study-thumb">
-							<img src="assets/images/resource/case1.jpg" alt="">
+							<img src="assets/images/resource/b4.jpg" alt="">
 							<div class="case-study-content">
 								<div class="case-study-title">
 									<h2><a href="#">Plumbing Services</a></h2>
-									<p>Plumbing</p>
+									<p>Plumber</p>
 								</div>
 							</div>
 						</div>
@@ -401,17 +408,17 @@
 				<div class="col-lg-12 col-sm-12">
 					<div class="dreamit-single-case-study">
 						<div class="dreamit-case-study-thumb">
-							<img src="assets/images/resource/case2.jpg" alt="">
+							<img src="assets/images/resource/case1.jpg" alt="">
 							<div class="case-study-content">
 								<div class="case-study-title">
-									<h2><a href="#">Electrical Repair</a></h2>
+									<h2><a href="#">ELECTRICAL SERVICES</a></h2>
 									<p>Electrician</p>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-12 col-sm-12">
+				<!-- <div class="col-lg-12 col-sm-12">
 					<div class="dreamit-single-case-study">
 						<div class="dreamit-case-study-thumb">
 							<img src="assets/images/resource/case3.jpg" alt="">
@@ -423,15 +430,15 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> -->
 				<div class="col-lg-12 col-sm-12">
 					<div class="dreamit-single-case-study">
 						<div class="dreamit-case-study-thumb">
 							<img src="assets/images/resource/case4.jpg" alt="">
 							<div class="case-study-content">
 								<div class="case-study-title">
-									<h2><a href="#">Handyman Services</a></h2>
-									<p>Handyman</p>
+									<h2><a href="#">CARPENTER SERVICES</a></h2>
+									<p>Carpenter</p>
 								</div>
 							</div>
 						</div>
@@ -443,14 +450,14 @@
 							<img src="assets/images/resource/case5.jpg" alt="">
 							<div class="case-study-content">
 								<div class="case-study-title">
-									<h2><a href="#">Cleaning Repair Clean</a></h2>
-									<p>Repair</p>
+									<h2><a href="#">AC TECHNICIAN </a></h2>
+									<p>AC Maintenance & Service</p>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-12 col-sm-12">
+				<!-- <div class="col-lg-12 col-sm-12">
 					<div class="dreamit-single-case-study">
 						<div class="dreamit-case-study-thumb">
 							<img src="assets/images/resource/case6.jpg" alt="">
@@ -462,7 +469,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> -->
 			</div>		
 		</div>
 	</div>
@@ -610,12 +617,12 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team1.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member1.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
 							<h3><a href="#">Hossen Babu Orfe</a></h3>
-							<p>Cleaning</p>
+							<p>AC TECHNICIAN</p>
 						</div>
 						<div class="dreamit-social-icons">
 							<div class="socail-icon">
@@ -630,12 +637,12 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team2.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member2.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
 							<h3><a href="#">Mostofa Kamal</a></h3>
-							<p>CLEANING REPAIR</p>
+							<p>PLUMBER</p>
 						</div>
 						<div class="dreamit-social-icons">
 							<div class="socail-icon">
@@ -650,12 +657,12 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team3.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member3.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
 							<h3><a href="#">Mehedi Hassan Raj</a></h3>
-							<p>ELECTRICAL</p>
+							<p>ELECTRICIAN</p>
 						</div>
 						<div class="dreamit-social-icons">
 							<div class="socail-icon">
@@ -700,7 +707,7 @@
 							<div class="testimonial-text">Handyman's cleaning team transformed my home! Impeccable attention to detail and a spotless finish. I highly recommend their thorough and professional cleaning services.</div>
 						</div>
 						<div class="testimonial-thumb">
-							<img src="assets/images/resource/testi1.jpg" alt="">
+							<img src="assets/images/resource/member1.png" alt="">
 						</div>
 						<div class="testi-titile">
 							<h2>Anowar Hossain </h2>
@@ -717,7 +724,7 @@
 							<div class="testimonial-text">Exceptional service! The electricians from Handyman not only fixed the issue promptly but also explained the process in a way I could understand. Reliable and skilled professionals!</div>
 						</div>
 						<div class="testimonial-thumb">
-							<img src="assets/images/resource/testi2.jpg" alt="">
+							<img src="assets/images/resource/member2.png" alt="">
 						</div>
 						<div class="testi-titile text-center">
 							<h2>Mehedi Hassan </h2>
@@ -734,7 +741,7 @@
 							<div class="testimonial-text">Handyman's cleaning team transformed my home! Impeccable attention to detail and a spotless finish. I highly recommend their thorough and professional cleaning services.</div>
 						</div>
 						<div class="testimonial-thumb">
-							<img src="assets/images/resource/testi3.jpg" alt="">
+							<img src="assets/images/resource/member3.png" alt="">
 						</div>
 						<div class="testi-titile text-center">
 							<h2>Hossen Babu Orfe</h2>
@@ -751,7 +758,7 @@
 							<div class="testimonial-text">Another outstanding experience with Handyman's cleaning crew! They consistently deliver quality service, leaving my home fresh and tidy. A trustworthy choice for all your cleaning needs.</div>
 						</div>
 						<div class="testimonial-thumb">
-							<img src="assets/images/resource/testi3.jpg" alt="">
+							<img src="assets/images/resource/member4.png" alt="">
 						</div>
 						<div class="testi-titile text-center">
 							<h2>Al-Amin Sorkar</h2>

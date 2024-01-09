@@ -14,7 +14,7 @@
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-right"></i> <span>Company</span></li>
+							<!-- <li><a href="#">home</a> <i class="fas fa-angle-right"></i> <span>Company</span></li> -->
 						</ul>
 					</div>	
 				</div>
@@ -42,30 +42,33 @@
 					<div class="col-lg-12">
 						<div class="dreamit-section-title text-left">
 							<h5>About</h5>
-							<h2>12 Years Experience In The</h2>
-							<h2>Handyman <span>& Plumber</span></h2>
+							<h2>1-2 years Experience In</h2>
+							<h2>The Handyman </h2>
 							<div class="em_bar_bg text-left"></div>
 							<p>Crafting Excellence in Handyman & Plumbing Services for Two Decades, Building Trust Through Masterful Artistry and Unparalleled Customer Satisfaction in Every Home Service Endeavor.</p>
 						</div>
 					</div>
 					<div class="col-lg-6">
 						<div class="about-content-text pt-2">
-							<p><i class="far fa-check-circle"></i> <span>Electricals Service</span></p>
+							<p><i class="far fa-check-circle"></i> <span>Handyman Service</span></p>
 						</div>
 						<div class="about-content-text">
-							<p><i class="far fa-check-circle"></i> <span>Mobile Service</span></p>
+							<p><i class="far fa-check-circle"></i> <span>AC Maintenance Service</span></p>
 						</div>
 						<div class="about-content-text">
-							<p><i class="far fa-check-circle"></i> <span>Frizz Services</span></p>
+							<p><i class="far fa-check-circle"></i> <span>Plumbing Service</span></p>
 						</div>
 						<div class="about-content-text">
-							<p><i class="far fa-check-circle"></i> <span>Computer Service</span></p>
+							<p><i class="far fa-check-circle"></i> <span>Carpenter Services</span></p>
+						</div>
+						<div class="about-content-text">
+							<p><i class="far fa-check-circle"></i> <span>Electrical Service</span></p>
 						</div>
 						<div class="dreamit-button">
 							<a href="#">About More </a>
 						</div>
 					</div>
-					<div class="col-lg-6">
+					<!-- <div class="col-lg-6">
 						<div class="about-content-text pt-2">
 							<p><i class="far fa-check-circle"></i> <span>Repair Service</span></p>
 						</div>
@@ -78,7 +81,7 @@
 						<div class="about-content-text">
 							<p><i class="far fa-check-circle"></i> <span>Emergency Service</span></p>
 						</div>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</div>
@@ -95,11 +98,11 @@
 	<div class="container-fluid">
 		<div class="row align-items-center">	
 			<div class="col-lg-6 col-md-6">
-				<div class="slider-video">
+				<!-- <div class="slider-video">
 					<div class="video-icon">
 						<a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="far fa-play-circle"></i></a>
 					</div>
-				</div>                                                                                                        
+				</div>                                                                                                         -->
 				<div class="dreamit-section-title white text-left">
 					<h5>WHAT WE OFFER YOU</h5>
 					<h2>Experience In The Electricals</h2>
@@ -150,7 +153,7 @@
 							</div>
 							<div class="why-choose-us-content">
 								<div class="why-choose-us-title">
-									<h2>Five Year Warranty</h2>
+									<h2>5 Months Warranty</h2>
 									<p>Confidence in our lasting quality.</p>
 								</div>
 							</div>
@@ -181,7 +184,7 @@
 					<div class="col-lg-12">
 						<div class="dreamit-section-title text-left">
 							<h5>Company</h5>
-							<h2>12 Years Experience In The</h2>
+							<h2>1-2 years Experience In The</h2>
 							<h2>Team  <span>Handyman</span></h2>
 							<div class="em_bar_bg text-left"></div>
 							<p>Proin gravida nibh vel velit auctor aliquet. sollicitudi lorem quis bibendum auctor, nisi elit consequat ipsum, sagittis sem nibh elit veniam, quis nostrud exercitation</p>
@@ -237,7 +240,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team1.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member1.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
@@ -257,12 +260,12 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team2.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member2.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
 							<h3><a href="#">Mostofa Kamal</a></h3>
-							<p>CLEANING REPAIR</p>
+							<p>AC MAINTENANCE</p>
 						</div>
 						<div class="dreamit-social-icons">
 							<div class="socail-icon">
@@ -277,7 +280,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team3.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member3.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
@@ -297,12 +300,12 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team2.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member2.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
 							<h3><a href="#">Mostofa Kamal</a></h3>
-							<p>CLEANING REPAIR</p>
+							<p>CARPENTER</p>
 						</div>
 						<div class="dreamit-social-icons">
 							<div class="socail-icon">
@@ -324,7 +327,7 @@
 <!--==================================================-->
 <!-- Start dreamit subscribe Area -->
 <!--==================================================-->
-<div class="subscribe-area">
+<!--<div class="subscribe-area">
 	<div class="container">
 		<div class="row subscribe-color">
 			<div class="col-lg-6 col-md-6 col-sm-12">
@@ -348,7 +351,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div>-->
 <!--==================================================-->
 <!-- End dreamit subscribe Area -->
 <!--==================================================-->

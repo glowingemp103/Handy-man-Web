@@ -12,7 +12,7 @@
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-right"></i> <span>About us</span></li>
+							<!-- <li><a href="#">home</a> <i class="fas fa-angle-right"></i> <span>About us</span></li> -->
 						</ul>
 					</div>	
 				</div>
@@ -40,8 +40,8 @@
 					<div class="col-lg-12">
 						<div class="dreamit-section-title text-left">
 							<h5>About</h5>
-							<h2>12 Years Experience In The</h2>
-							<h2>Handyman <span>& Plumber</span></h2>
+							<h2>1-2 years Experience In</h2>
+							<h2>The Handyman </h2>
 							<div class="em_bar_bg text-left"></div>
 							<p>Crafting Excellence in Handyman & Plumbing Services for Two Decades, Building Trust Through Masterful Artistry and Unparalleled Customer Satisfaction in Every Home Service Endeavor.</p>
 						</div>
@@ -59,7 +59,7 @@
 						<div class="elementor-widget-icon-box">
 							<i class="flaticon-electrician-4"></i>
 							<div class="elementor-widget-title">
-								<h2>Roof Services</h2>
+								<h2>Carpenter Service</h2>
 								<p>Overhead care and repairs, safeguarding your home with top-tier roofing solutions.</p>
 							</div>
 						</div>
@@ -81,7 +81,7 @@
 							<i class="flaticon-electrician-6"></i>
 							<div class="elementor-widget-title">
 								<h2>Quality Services</h2>
-								<p>Excellence in every task, our comprehensive services cater to all your home needs.</p>
+								<p>Quality Services Guaranteed quality services with a 5-day warranty. Painter services excluded.</p>
 							</div>
 						</div>
 					</div>
@@ -238,12 +238,12 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team1.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member1.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
 							<h3><a href="#">Hossen Babu Orfe</a></h3>
-							<p>CLEANING REPAIR</p>
+							<p>ELECTRICIAN</p>
 						</div>
 						<div class="dreamit-social-icons">
 							<div class="socail-icon">
@@ -258,12 +258,12 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team2.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member2.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
 							<h3><a href="#">Mostofa Kamal</a></h3>
-							<p>CLEANING REPAIR</p>
+							<p>AC TECHNICIAN</p>
 						</div>
 						<div class="dreamit-social-icons">
 							<div class="socail-icon">
@@ -278,12 +278,12 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team3.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member3.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
 							<h3><a href="#">Mehedi Hassan Raj</a></h3>
-							<p>ELECTRICAL</p>
+							<p>PLUMBER</p>
 						</div>
 						<div class="dreamit-social-icons">
 							<div class="socail-icon">
@@ -298,12 +298,12 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team2.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member2.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
 							<h3><a href="#">Mostofa Kamal</a></h3>
-							<p>CLEANING REPAIR</p>
+							<p>CARPENTER</p>
 						</div>
 						<div class="dreamit-social-icons">
 							<div class="socail-icon">
@@ -325,7 +325,7 @@
 <!--==================================================-->
 <!-- Start dreamit subscribe Area -->
 <!--==================================================-->
-<div class="subscribe-area">
+<!-- <div class="subscribe-area">
 	<div class="container">
 		<div class="row subscribe-color">
 			<div class="col-lg-6 col-md-6 col-sm-12">
@@ -349,7 +349,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 <!--==================================================-->
 <!-- End dreamit subscribe Area -->
 <!--==================================================-->

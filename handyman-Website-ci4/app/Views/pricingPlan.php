@@ -14,7 +14,7 @@
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-right"></i> <span>Pricing Plan</span></li>
+							<!-- <li><a href="#">home</a> <i class="fas fa-angle-right"></i> <span>Pricing Plan</span></li> -->
 						</ul>
 					</div>	
 				</div>
@@ -156,7 +156,7 @@
 							<div class="testimonial-text">Meet our dedicated team of specialists, ensuring precision and care in your projects with years of experience and a passion for excellence.</div>
 						</div>
 						<div class="testimonial-thumb">
-							<img src="assets/images/resource/testi1.jpg" alt="">
+							<img src="assets/images/resource/member1.png" alt="">
 						</div>
 						<div class="testi-titile">
 							<h2>Anowar Hossain </h2>
@@ -173,7 +173,7 @@
 							<div class="testimonial-text">Dedicated to exceptional service, our best employees focus on project success, embodying dedication, expertise, and customer satisfaction for a harmonious client experience.</div>
 						</div>
 						<div class="testimonial-thumb">
-							<img src="assets/images/resource/testi2.jpg" alt="">
+							<img src="assets/images/resource/member2.png" alt="">
 						</div>
 						<div class="testi-titile text-center">
 							<h2>Mehedi Hassan </h2>
@@ -190,7 +190,7 @@
 							<div class="testimonial-text">Our specialists, architects of success stories, ensure a seamless and satisfying experience, turning visions into reality. Join our community of happy clients and witness transformative expertise.</div>
 						</div>
 						<div class="testimonial-thumb">
-							<img src="assets/images/resource/testi3.jpg" alt="">
+							<img src="assets/images/resource/member3.png" alt="">
 						</div>
 						<div class="testi-titile text-center">
 							<h2>Hossen Babu Orfe</h2>
@@ -207,7 +207,7 @@
 							<div class="testimonial-text">Lorem ipsum dolor sit amet saresw consectetur adipis cing elit sed do eiusmod tempor incidi dunt ut labore etolore magna aliqua ipsum suspen disse ultrices ida commodo.</div>
 						</div>
 						<div class="testimonial-thumb">
-							<img src="assets/images/resource/testi3.jpg" alt="">
+							<img src="assets/images/resource/member4.png" alt="">
 						</div>
 						<div class="testi-titile text-center">
 							<h2>Al-Amin Sorkar</h2>
@@ -226,7 +226,7 @@
 <!--==================================================-->
 <!-- Start dreamit subscribe Area -->
 <!--==================================================-->
-<div class="subscribe-area">
+<!--<div class="subscribe-area">
 	<div class="container">
 		<div class="row subscribe-color">
 			<div class="col-lg-6 col-md-6 col-sm-12">
@@ -250,7 +250,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div>--> 
 <!--==================================================-->
 <!-- End dreamit subscribe Area -->
 <!--==================================================-->

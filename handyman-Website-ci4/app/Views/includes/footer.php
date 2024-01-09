@@ -28,11 +28,12 @@
 					<h4 class="widget-title">Our Service</h4>
 					<div class="menu-quick-link-content">
 						<ul class="menu">
-							<li><a href="#">Our Services</a></li>
-							<li><a href="#">Electrician Services</a></li>
-							<li><a href="#">Handyman Service</a></li>
-							<li><a href="#">Plumbing Services</a></li>
-							<li><a href="#">Repair Services</a></li>
+
+							<li><a href="/handymanService">Handyman Services </a></li>
+							<li><a href="/acMaintenance">AC Maintenance </a></li>
+							<li><a href="/electricianService">Electrician Services</a></li>
+							<li><a href="/plumbingService">Plumbing Services</a></li>
+							<li><a href="/handymanService">Carpenter Services</a></li>
 						</ul>
 					</div>
 				</div>
@@ -42,12 +43,12 @@
 					<h4 class="widget-title">Pages</h4>
 					<div class="menu-quick-link-content ">
 						<ul class="menu">
-							<li><a href="#">Company</a></li>
-							<li><a href="#">Team Members</a></li>
-							<li><a href="#">Portfolio</a></li>
-							<li><a href="#">Pricing Plan</a></li>
-							<li><a href="#">Faq's</a></li>
-							<li><a href="#">Contact Us</a></li>
+							<li><a href="/company">Company</a></li>
+							<li><a href="/teamMember">Team Members</a></li>
+							<li><a href="/portfolio">Portfolio</a></li>
+							<li><a href="/pricingPlan">Pricing Plan</a></li>
+							<li><a href="/faq">Faq's</a></li>
+							<li><a href="/contactUs">Contact Us</a></li>
 						</ul>
 					</div>
 				</div>
@@ -213,6 +214,8 @@
             $('#bar2').barfiller({ duration: 7000 });
             $('#bar3').barfiller({ duration: 7000 });
             $('#bar4').barfiller({ duration: 7000 });
+            $('#bar5').barfiller({ duration: 7000 });
+            $('#bar6').barfiller({ duration: 7000 });
             });
         </script>
 </body>

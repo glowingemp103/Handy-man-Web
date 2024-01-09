@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Handyman - Home	 </title>
+	<title>Handyman	 </title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
@@ -103,15 +103,15 @@
 					<ul class="nav_scroll">
 						<li><a href="/">Home</a></li>
 						<li><a href="/aboutUs">About</a></li>
-						<li><a href="#Services">Services <span><i class="fas fa-angle-down"></i></span></a>
-							<ul class="sub-menu">
+						<li><a href="/handymanService">Services <span><i class="fas fa-angle-down"></i></span></a>
+							<!-- <ul class="sub-menu">
 								<li><a href="/handymanService">Handyman Service</a></li>
 								<li><a href="/electricianService">Electrician Service</a></li>
 								<li><a href="/plumbingService">Plumbing Service</a></li>
 								<li><a href="/repairService">Repair Service</a></li>
-							</ul>
+							</ul> -->
 						</li>
-						<li><a href="#Pages">Pages <span><i class="fas fa-angle-down"></i></span></a>
+						<li><a href="javascript:void(0)">More <span><i class="fas fa-angle-down"></i></span></a>
 							<ul class="sub-menu">
 									<!-- <li><a href="about-us.html">About Us</a></li>
 									<li><a href="our-service.html">Our Service</a></li> --> 
@@ -134,7 +134,7 @@
 						<li><a href="/contactUs">Contact Us</a></li>
 					</ul>
 					<div class="header-button">
-						<a class="dtbtn" href="#">Get A Quote</a>	
+						<a class="dtbtn" href="/getQuote">Get A Quote</a>	
 					</div>			
 				</nav>
 			</div>
@@ -163,7 +163,7 @@
 					</ul>--> 
 				</li>
 				<li><a href="/aboutUs">About</a></li>
-				<li><a href="portfolio.html">Services <span><i class="fas fa-angle-down"></i></span></a>
+				<li><a href="javascript:void(0)">Services <span><i class="fas fa-angle-down"></i></span></a>
 					<ul class="sub-menu">
 						<li><a href="/handymanService">Handyman Service</a></li>
 						<li><a href="/electricianService">Electrician Service</a></li>
@@ -171,11 +171,11 @@
 						<li><a href="/repairService">Repair Service</a></li>
 					</ul>
 				</li>
-				<li><a href="service.html">Pages <span><i class="fas fa-angle-down"></i></span></a>
+				<li><a href="javascript:void(0)">More <span><i class="fas fa-angle-down"></i></span></a>
 					<ul class="sub-menu">
 						<li><a href="/company">Company</a></li>
 						<li><a href="/teamMember">Team Member</a></li>
-						<li><a href="/Portfolio">Portfolio</a></li>
+						<li><a href="/portfolio">Portfolio</a></li>
 						<li><a href="/pricingPlan">Pricing Plan</a></li>
 						<li><a href="/faq">Faq's</a></li>								
 					</ul>

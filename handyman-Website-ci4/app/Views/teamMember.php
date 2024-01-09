@@ -14,7 +14,7 @@
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-right"></i> <span>Team Member</span></li>
+							<!-- <li><a href="#">home</a> <i class="fas fa-angle-right"></i> <span>Team Member</span></li> -->
 						</ul>
 					</div>	
 				</div>
@@ -37,10 +37,10 @@
 					<div class="col-lg-12">
 						<div class="dreamit-section-title text-left">
 							<h5>TEAM EXPERT</h5>
-							<h2>12 Years Experience In The</h2>
+							<h2>1-2 years Experience In The</h2>
 							<h2>Team  <span>Handyman</span></h2>
 							<div class="em_bar_bg text-left"></div>
-							<p>Welcome to Team Handyman, where expertise meets dedication. With 12 years of experience, our skilled team is committed to delivering top-notch services tailored to your needs. From plumbing to electrical solutions, we are your trusted partner in crafting perfection for your home. Experience the difference with Team Handyman—your go-to choice for quality home services.</p>
+							<p>Welcome to Team Handyman, where expertise meets dedication. With 1-2 years of experience, our skilled team is committed to delivering top-notch services tailored to your needs. From plumbing to electrical solutions, we are your trusted partner in crafting perfection for your home. Experience the difference with Team Handyman—your go-to choice for quality home services.</p>
 						</div>
 						<!-- <div class="section-title-text">
 							<p>There are many variations of passages of Lorem Ipsum a available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly this believable. If you are going to use a passage of Lorem Ipsum,</p>
@@ -54,8 +54,16 @@
 				  <div class="stat-1 stat-bar">
 				  	 <div class="stat-bar-rating" style="width: 88%;"><span class="percent">80%</span></div>
 				  </div>
-				  <h6>Industrie Experience</h6>
+				  <h6>Carpenter Experience</h6>
 				  <div class="stat-1 stat-bar">
+				  	 <div class="stat-bar-rating" style="width: 92%;"><span class="percent">70%</span></div>
+				  </div>
+				  <h6>Electrical Experience</h6>
+				  <div class="stat-1 stat-bar">
+				  	 <div class="stat-bar-rating" style="width: 92%;"><span class="percent">70%</span></div>
+				  </div>
+				  <h6>AC Maintenance Experience</h6>
+				  <div class="stat-1 stat-bar mb-5">
 				  	 <div class="stat-bar-rating" style="width: 92%;"><span class="percent">70%</span></div>
 				  </div>
 				</div>
@@ -93,11 +101,11 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team1.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member1.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
-							<h3><a href="#">Hossen Babu Orfe</a></h3>
+							<!-- <h3><a href="#">Hossen Babu Orfe</a></h3> -->
 							<p>Plumber</p>
 						</div>
 						<div class="dreamit-social-icons">
@@ -113,12 +121,12 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team2.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member2.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
-							<h3><a href="#">Mostofa Kamal</a></h3>
-							<p>CLEANING REPAIR</p>
+							<!-- <h3><a href="#">Mostofa Kamal</a></h3> -->
+							<p>AC MAINTENANCE</p>
 						</div>
 						<div class="dreamit-social-icons">
 							<div class="socail-icon">
@@ -133,12 +141,12 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team3.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member3.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
-							<h3><a href="#">Mehedi Hassan Raj</a></h3>
-							<p>ELECTRICAL</p>
+							<!-- <h3><a href="#">Mehedi Hassan Raj</a></h3> -->
+							<p>ELECTRICIAN</p>
 						</div>
 						<div class="dreamit-social-icons">
 							<div class="socail-icon">
@@ -153,12 +161,12 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team2.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member2.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
-							<h3><a href="#">Mostofa Kamal</a></h3>
-							<p>CLEANING REPAIR</p>
+							<!-- <h3><a href="#">Mostofa Kamal</a></h3> -->
+							<p>CARPENTER</p>
 						</div>
 						<div class="dreamit-social-icons">
 							<div class="socail-icon">
@@ -180,7 +188,7 @@
 <!--==================================================-->
 <!-- Start dreamit subscribe Area -->
 <!--==================================================-->
-<div class="subscribe-area">
+<!--<div class="subscribe-area">
 	<div class="container">
 		<div class="row subscribe-color">
 			<div class="col-lg-6 col-md-6 col-sm-12">
@@ -204,7 +212,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div>-->
 <!--==================================================-->
 <!-- End dreamit subscribe Area -->
 <!--==================================================-->

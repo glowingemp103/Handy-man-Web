@@ -14,7 +14,7 @@
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-right"></i> <span>Contact Us</span></li>
+							<!-- <li><a href="#">home</a> <i class="fas fa-angle-right"></i> <span>Contact Us</span></li> -->
 						</ul>
 					</div>	
 				</div>
@@ -27,59 +27,9 @@
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit about Area -->
-<!--==================================================-->
-<div class="brand-area pt-80 pb-95">
-	<div class="container">
-		<div class="row">
-			<div class="brand_list owl-carousel">
-				<div class="col-lg-12">
-					<div class="dreamit-single-brand">
-						<div class="brand-thumb">
-							<img src="assets/images/shape/brand1.png" alt="">
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-12">
-					<div class="dreamit-single-brand">
-						<div class="brand-thumb">
-							<img src="assets/images/shape/brand2.png" alt="">
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-12">
-					<div class="dreamit-single-brand">
-						<div class="brand-thumb">
-							<img src="assets/images/shape/brand3.png" alt="">
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-12">
-					<div class="dreamit-single-brand">
-						<div class="brand-thumb">
-							<img src="assets/images/shape/brand4.png" alt="">
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-12">
-					<div class="dreamit-single-brand">
-						<div class="brand-thumb">
-							<img src="assets/images/shape/brand5.png" alt="">
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--==================================================-->
-<!-- Start dreamit about Area -->
-<!--==================================================-->
-
-<!--==================================================-->
 <!-- Start dreamit subscribe Area -->
 <!--==================================================-->
-<div class="subscribe-area style-two">
+<!-- <div class="subscribe-area style-two">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 col-md-6 col-sm-12">
@@ -93,7 +43,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 <!--==================================================-->
 <!-- End dreamit subscribe Area -->
 <!--==================================================-->
@@ -175,7 +125,7 @@
 							</div>
 							<div class="col-lg-12 col-sm-12">
 								<div class="from-box">
-									<textarea name="massage" id="massage" cols="30" rows="10" placeholder="Massage"></textarea>
+									<textarea name="massage" id="massage" cols="30" rows="10" placeholder="Message"></textarea>
 								</div>
 							</div>
 							<div class="col-lg-12">
@@ -196,9 +146,59 @@
 <!--==================================================-->
 
 <!--==================================================-->
+<!-- Start dreamit about Area -->
+<!--==================================================-->
+<div class="brand-area pt-80 pb-95">
+	<div class="container">
+		<div class="row">
+			<div class="brand_list owl-carousel">
+				<div class="col-lg-12">
+					<div class="dreamit-single-brand">
+						<div class="brand-thumb">
+							<img src="assets/images/shape/brand1.png" alt="">
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<div class="dreamit-single-brand">
+						<div class="brand-thumb">
+							<img src="assets/images/shape/brand2.png" alt="">
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<div class="dreamit-single-brand">
+						<div class="brand-thumb">
+							<img src="assets/images/shape/brand3.png" alt="">
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<div class="dreamit-single-brand">
+						<div class="brand-thumb">
+							<img src="assets/images/shape/brand4.png" alt="">
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<div class="dreamit-single-brand">
+						<div class="brand-thumb">
+							<img src="assets/images/shape/brand5.png" alt="">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--==================================================-->
+<!-- Start dreamit about Area -->
+<!--==================================================-->
+
+<!--==================================================-->
 <!-- Start dreamit subscribe Area -->
 <!--==================================================-->
-<div class="subscribe-area">
+<!-- <div class="subscribe-area">
 	<div class="container">
 		<div class="row subscribe-color">
 			<div class="col-lg-6 col-md-6 col-sm-12">
@@ -222,7 +222,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 <!--==================================================-->
 <!-- End dreamit subscribe Area -->
 <!--==================================================-->

@@ -1974,7 +1974,7 @@ a.team-active i {
 <!-- ============================================================== -->*/
 .slider1.slider-area {
     height: 750px;
-    background: url(/assets/images/slider/slider1.jpg);
+    background: url(/assets/images/slider/slider1.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -1982,7 +1982,7 @@ a.team-active i {
 }
 .slider2.slider-area {
     height: 750px;
-    background: url(/assets/images/slider/slider.jpg);
+    background: url(/assets/images/slider/slider.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -4884,10 +4884,29 @@ span.bottom-m {
     transition: .5s;
     z-index: 1;
 }
-.single_portfolio_thumb {
+
+.single_portfolio_thumb_small {
 	transition:.5s;
 	position:relative;
 }
+.single_portfolio_thumb_small:before {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(252,150,21,.85);
+    top: 0;
+    content: "";
+    opacity: 0;
+    transition: .5s;
+    z-index: 1;
+}
+
+.single_portfolio_thumb {
+    transition:.5s;
+    position:relative;
+}
+
 .single_portfolio_thumb:before {
     position: absolute;
     left: 0;
@@ -4900,6 +4919,14 @@ span.bottom-m {
     transition: .5s;
     z-index: 1;
 }
+
+.single_portfolio_thumb img {
+    width: 100%;
+    display: block;
+    transform: scale(1);
+    transition: .3s;
+}
+
 .single_portfolio_thumb img {
     width: 100%;
     display: block;
@@ -5057,6 +5084,23 @@ p.text-st {
     margin-bottom: 16px;
     font-weight: 500;
 }
+
+.from-box select {
+    height: 54px;
+    background-color: #fff;
+    border-color: transparent;
+    transition: .5s;
+    border: 1px solid #e6e6e6;
+    box-shadow: 0 0px 1px 1px #e9eef7;
+    padding: 6px 20px;
+    border-radius: 8px;
+    display: block;
+    width: 100%;
+    color: #223645;
+    margin-bottom: 16px;
+    font-weight: 500;
+}
+
 .from-box textarea {
     height: 150px;
     background-color: #fff;

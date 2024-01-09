@@ -6,6 +6,6 @@ class Portfolio extends BaseController
 {
     public function index()
     {   
-        return view('Portfolio');
+        return view('portfolio');
     }
 }

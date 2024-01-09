@@ -13,7 +13,7 @@
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-right"></i> <span>FAQ’S</span></li>
+							<!-- <li><a href="#">home</a> <i class="fas fa-angle-right"></i> <span>FAQ’S</span></li> -->
 						</ul>
 					</div>	
 				</div>
@@ -34,8 +34,8 @@
 			<div class="col-lg-12 col-sm-12">
 				<div class="dreamit-section-title pb-30 text-center">
 					<h5>OUR FAQ'S</h5>
-					<h2>12 Years Experience In The Filed</h2>
-					<h2>Do You Have <span>Questions?</span></h2>
+					<h2>1-2 years Experience In The Filed</h2>
+					<h2>Do You Have Questions?</h2>
 					<div class="em_bar_bg text-left"></div>
 				</div>
 			</div>
@@ -248,7 +248,7 @@
 <!--==================================================-->
 <!-- Start dreamit team Area -->
 <!--==================================================-->
-<div class="team-area pt-80 pb-65">
+<!-- <div class="team-area pt-80 pb-65">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 col-sm-12">
@@ -264,7 +264,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team1.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member1.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
@@ -284,7 +284,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team2.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member2.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
@@ -304,7 +304,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team3.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member3.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
@@ -324,7 +324,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="dreamit-single-team-thumb">
-						<a href="#"><img src="assets/images/team/team2.jpg" alt=""></a>
+						<a href="#"><img src="assets/images/team/member2.png" alt=""></a>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
@@ -343,7 +343,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 <!--==================================================-->
 <!-- End dreamit team Area -->
 <!--==================================================-->
@@ -351,7 +351,7 @@
 <!--==================================================-->
 <!-- Start dreamit subscribe Area -->
 <!--==================================================-->
-<div class="subscribe-area">
+<!--<div class="subscribe-area">
 	<div class="container">
 		<div class="row subscribe-color">
 			<div class="col-lg-6 col-md-6 col-sm-12">
@@ -375,7 +375,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div>-->
 <!--==================================================-->
 <!-- End dreamit subscribe Area -->
 <!--==================================================-->

@@ -14,7 +14,7 @@
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-right"></i> <span>Repair Services</span></li>
+							<!-- <li><a href="#">home</a> <i class="fas fa-angle-right"></i> <span>Repair Services</span></li> -->
 						</ul>
 					</div>	
 				</div>
@@ -35,11 +35,13 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="widget-service-box">
 					<div class="widget-service-menu">
-						<ul>
-							<li><a href="index.html">Handyman Service <i class="fas fa-angle-right"></i></a></li>			
-							<li><a href="index-electrician.html">Electrician Services <i class="fas fa-angle-right"></i></a></li>
-							<li><a href="index-plumbing.html">Plumbing Services <i class="fas fa-angle-right"></i></a></li>
-							<li><a class="current" href="index-repair.html">Repair Services <i class="fas fa-angle-right"></i></a></li>
+					<ul>
+							<li><a href="/handymanService"> Handyman Services <i class="fas fa-angle-right"></i></a></li>
+							<li><a href="/acMaintenance">AC Maintenance <i class="fas fa-angle-right"></i></a></li>
+							<li><a href="/electricianService">Electrician Services <i class="fas fa-angle-right"></i></a></li>
+							<li><a href="/plumbingService">Plumbing Services <i class="fas fa-angle-right"></i></a></li>
+							<li><a class="current" href="/repairService">Repair Services <i class="fas fa-angle-right"></i></a></li>
+							<li><a href="/carPenter">Carpenter Services <i class="fas fa-angle-right"></i></a></li>
 						</ul>
 					</div>
 				</div>
@@ -62,7 +64,7 @@
 				<div class="widget-service-thumb-detials pl-3">
 					<img src="assets/images/project/img4.jpg" alt="">
 					<div class="elementor-widget-title1">
-						<h2>Description For Repair Services</h2>
+						<h2>Repair Services</h2>
 						<p>Our repair services address every need, from minor fixes to major overhauls. Skilled professionals, swift solutions, and a commitment to excellence ensure your satisfaction. Trust us to revive and enhance the functionality of your home. Experience quality repairs that stand the test of time.</p>
 
 					</div>
@@ -97,7 +99,7 @@
 					<div class="col-lg-6 col-md-6 col-sm-12">
 						<div class="dreamit-team-thumb widget">
 							<div class="dreamit-team-thumb-inner">
-								<img src="assets/images/team/team3.jpg" alt="">
+								<img src="assets/images/team/member3.png" alt="">
 								<div class="team-content-socail-icon">
 									<div class="team-content-socail">
 										<a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -109,7 +111,7 @@
 							<div class="em-team-content text-center">
 								<div class="team-title">
 									<h2>Rashedujjaman MT</h2>
-									<span>ELECTRICAL</span>
+									<span>REPAIR</span>
 								</div>
 							</div>
 						</div>
@@ -117,7 +119,7 @@
 					<div class="col-lg-6 col-md-6 col-sm-12">
 						<div class="dreamit-team-thumb widget">
 							<div class="dreamit-team-thumb-inner">
-								<img src="assets/images/team/team2.jpg" alt="">
+								<img src="assets/images/team/member2.png" alt="">
 								<div class="team-content-socail-icon">
 									<div class="team-content-socail">
 										<a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -129,7 +131,7 @@
 							<div class="em-team-content text-center">
 								<div class="team-title">
 									<h2>Ferdous Islam Shafi</h2>
-									<span>CLEANING REPAIR</span>
+									<span>REPAIR</span>
 								</div>
 							</div>
 						</div>

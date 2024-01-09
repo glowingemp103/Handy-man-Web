@@ -22,9 +22,10 @@
 					<div class="portfolio_menu">
 						<ul class="menu-filtering">
 							<li class="current_menu_item" data-filter="*">All Works</li>
-							<li data-filter=".physics" >Electrical</li>
-							<li data-filter=".cemes" >Plumbing</li>
-							<li data-filter=".math" > Repair</li>
+							<li data-filter=".physics" >AC Maintenance</li>
+							<li data-filter=".cemes" >Carpenter</li>
+							<li data-filter=".math" > Electrical</li>
+							<li data-filter=".eng" > Plumbing</li>
 						</ul>
 					</div>
 				</div>
@@ -38,7 +39,7 @@
 							<img src="assets/images/project/pt1.jpg" alt="" />
 							<div class="single_portfolio_content">
 								<h3><a href="portfolio-details.html">Hardwood Flooring</a></h3>
-								<span>electrical</span>	
+								<span>Electrical</span>	
 							</div>
 						</div>
 					</div>
@@ -48,12 +49,12 @@
 				<div class="single_portfolio">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/project/pt2.jpg" alt="" />
+							<img src="assets/images/project/case5.jpg" alt="" />
 							<div class="single_portfolio_content">
-								<h3><a href="portfolio-details.html">Fireplace Cleaning</a></h3>
-								<span>repair</span>	
+								<h3><a href="portfolio-details.html">AC Cleaning</a></h3>
+								<span>AC Maintenance</span>	
 							</div>
-						</div>
+						</div>	
 					</div>
 				</div>
 			</div>
@@ -61,10 +62,10 @@
 				<div class="single_portfolio">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/project/pt3.jpg" alt="" />
+							<img src="assets/images/project/carpenter-2.jpg" alt="" />
 							<div class="single_portfolio_content">
 								<h3><a href="portfolio-details.html">Handmade Furniture</a></h3>
-								<span>plumbing</span>	
+								<span>Carpenter</span>	
 							</div>
 						</div>
 					</div>
@@ -77,7 +78,7 @@
 							<img src="assets/images/project/pt4.jpg" alt="" />
 							<div class="single_portfolio_content">
 								<h3><a href="portfolio-details.html">Kitchen Renovation</a></h3>
-								<span>electrical</span>	
+								<span>Electrical</span>	
 							</div>
 						</div>
 					</div>
@@ -87,10 +88,10 @@
 				<div class="single_portfolio">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/project/pt5.jpg" alt="" />
+							<img src="assets/images/project/carpenter.jpg" alt="" />
 							<div class="single_portfolio_content">
 								<h3><a href="portfolio-details.html">Commercial Building</a></h3>
-								<span>repair</span>	
+								<span>Carpenter</span>	
 							</div>
 						</div>
 					</div>
@@ -103,7 +104,7 @@
 							<img src="assets/images/project/pt6.jpg" alt="" />
 							<div class="single_portfolio_content">
 								<h3><a href="portfolio-details.html">Bathroom Remodeling</a></h3>
-								<span>plumbing</span>	
+								<span>Plumbing</span>	
 							</div>
 						</div>
 					</div>
@@ -115,11 +116,53 @@
 <!--==================================================-->
 <!--End datatech Portfolio Area -->
 <!--==================================================-->
-
+<div class="brand-area pt-80 pb-95">
+	<div class="container">
+		<div class="row">
+			<div class="brand_list owl-carousel">
+				<div class="col-lg-12">
+					<div class="dreamit-single-brand">
+						<div class="brand-thumb">
+							<img src="assets/images/shape/brand1.png" alt="">
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<div class="dreamit-single-brand">
+						<div class="brand-thumb">
+							<img src="assets/images/shape/brand2.png" alt="">
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<div class="dreamit-single-brand">
+						<div class="brand-thumb">
+							<img src="assets/images/shape/brand3.png" alt="">
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<div class="dreamit-single-brand">
+						<div class="brand-thumb">
+							<img src="assets/images/shape/brand4.png" alt="">
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<div class="dreamit-single-brand">
+						<div class="brand-thumb">
+							<img src="assets/images/shape/brand5.png" alt="">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
 <!--==================================================-->
 <!-- Start dreamit subscribe Area -->
 <!--==================================================-->
-<div class="subscribe-area">
+<!--<div class="subscribe-area">
 	<div class="container">
 		<div class="row subscribe-color">
 			<div class="col-lg-6 col-md-6 col-sm-12">
@@ -143,7 +186,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div>--> 
 <!--==================================================-->
 <!-- End dreamit subscribe Area -->
 <!--==================================================-->
