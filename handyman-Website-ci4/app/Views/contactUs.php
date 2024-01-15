@@ -101,7 +101,7 @@
 						<h2>Now Us</h2>
 						<div class="em_bar_bg text-left"></div>
 					</div>
-					<form action="https://formspree.io/f/myyleorq" method="POST" id="dreamit-form">
+					<form action="<?= base_url('contactUs/sendMessage') ?>" method="POST" id="dreamit-form">
 						<div class="row">
 							<div class="col-lg-6 col-md-6 col-sm-12">
 								<div class="from-box">
@@ -125,7 +125,7 @@
 							</div>
 							<div class="col-lg-12 col-sm-12">
 								<div class="from-box">
-									<textarea name="massage" id="massage" cols="30" rows="10" placeholder="Message"></textarea>
+									<textarea name="message" id="message" cols="30" rows="10" placeholder="Message"></textarea>
 								</div>
 							</div>
 							<div class="col-lg-12">
@@ -226,6 +226,8 @@
 <!--==================================================-->
 <!-- End dreamit subscribe Area -->
 <!--==================================================-->
+
+<!-- Your contactUs.php view -->
 
 
 <?php include(APPPATH . 'Views/includes/footer.php'); ?>

@@ -8,7 +8,7 @@
 			<div class="col-lg-12">
 				<div class="breatcumb-content text-center">
 					<div class="breatcumb-title">
-						<h2>AC Maintenance</h2>
+						<h2>AC Maintenance Services</h2>
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
@@ -62,7 +62,7 @@
 				<div class="widget-service-thumb-detials pl-3">
 					<img src="assets/images/project/img2.jpg" alt="">
 					<div class="elementor-widget-title1">
-						<h2>AC Maintenance Services</h2>
+						<h2>Description For AC Maintenance Services</h2>
 						<p>Stay Cool, Stay Efficient: Our AC Maintenance Service is your ticket to a reliably comfortable home. Our skilled technicians specialize in thorough inspections, cleaning, and troubleshooting to ensure your air conditioning system runs at peak performance. From regular tune-ups to addressing specific issues, we prioritize proactive maintenance to extend the lifespan of your unit and optimize energy efficiency. Experience the peace of mind that comes with a well-maintained AC system, providing you with uninterrupted comfort, improved air quality, and cost-effective cooling solutions. At Handyman, we keep your cool, always.</p>
 					</div>
 				</div>

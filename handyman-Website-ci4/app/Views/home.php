@@ -432,9 +432,9 @@
 					</div>
 				</div> -->
 				<div class="col-lg-12 col-sm-12">
-					<div class="dreamit-single-case-study">
-						<div class="dreamit-case-study-thumb">
-							<img src="assets/images/resource/case4.jpg" alt="">
+					<div class="dreamit-single-case-study-small">
+						<div class="dreamit-case-study-thumb-small">
+							<img src="assets/images/project/carpenter.jpg" alt="">
 							<div class="case-study-content">
 								<div class="case-study-title">
 									<h2><a href="#">CARPENTER SERVICES</a></h2>
