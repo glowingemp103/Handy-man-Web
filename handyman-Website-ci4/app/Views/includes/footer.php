@@ -175,7 +175,7 @@
 	<script src="/assets/js/bootstrap.min.js"></script>
 	<!-- carousel js -->
 	<script src="/assets/js/owl.carousel.min.js"></script>
-	<!-- counterup js -->
+	<!-- counterup js -->	
 	<script src="/assets/js/jquery.counterup.min.js"></script>
 	<!-- waypoints js -->
 	<script src="/assets/js/waypoints.min.js"></script>
@@ -184,13 +184,13 @@
 	<!-- imagesloaded js -->
 	<script src="/assets/js/imagesloaded.pkgd.min.js"></script>
 	<!-- venobox js -->
-	<script src="venobox/venobox.js"></script>
+	<script src="/assets/venobox/venobox.js"></script>
 	<!-- ajax mail js -->
 	<script src="/assets/js/ajax-mail.js"></script>
 	<!--  animated-text js -->	
 	<script src="/assets/js/animated-text.js"></script>
 	<!-- venobox min js -->
-	<script src="venobox/venobox.min.js"></script>
+	<script src="/assets/venobox/venobox.min.js"></script>
 	<!-- isotope js -->
 	<script src="/assets/js/isotope.pkgd.min.js"></script>
 	<!-- jquery nivo slider pack js -->

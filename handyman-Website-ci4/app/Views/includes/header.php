@@ -32,7 +32,7 @@
 	<!-- transitions CSS -->
 	<link rel="stylesheet" href="/assets/css/owl.transitions.css" type="text/css" media="all" />
 	<!-- venobox CSS -->
-	<link rel="stylesheet" href="venobox/venobox.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/assets/venobox/venobox.css" type="text/css" media="all" />
 	<!-- widget CSS -->
 	<link rel="stylesheet" href="/assets/css/widget.css" type="text/css" media="all" />
 	<!-- responsive CSS -->

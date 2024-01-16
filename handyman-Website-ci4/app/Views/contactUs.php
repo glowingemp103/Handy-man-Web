@@ -110,17 +110,23 @@
 							</div>
 							<div class="col-lg-6 col-md-6 col-sm-12">
 								<div class="from-box">
-									<input type="text" name="email" placeholder="Your Email">
+									<input type="email" name="email" placeholder="Your Email">
 								</div>
 							</div>
 							<div class="col-lg-6 col-md-6 col-sm-12">
 								<div class="from-box">
-									<input type="text" name="phone" placeholder="Your Phone">
+									<input type="number" name="phone" placeholder="Your Phone">
 								</div>
 							</div>
 							<div class="col-lg-6 col-md-6 col-sm-12">
 								<div class="from-box">
-									<input type="text" name="web" placeholder="Subject">
+									<select name="service">
+										<option value="" selected disabled>Select Subject</option>
+										<option value="Plumbing Service">Plumbing Service</option>
+										<option value="AC Maintenance">AC Maintenance Service</option>
+										<option value="Carpenter Service">Carpenter Service</option>
+										<option value="Electrician Service">Electrician Service</option>
+									</select>
 								</div>
 							</div>
 							<div class="col-lg-12 col-sm-12">
@@ -135,6 +141,7 @@
 							</div>
 						</div>
 					</form>
+					<!-- <input type="hidden" name="<?= csrf_token() ?>" value="<?= csrf_hash() ?>" /> -->
 					<div id="status"></div>
 				</div>
 			</div>
@@ -226,8 +233,6 @@
 <!--==================================================-->
 <!-- End dreamit subscribe Area -->
 <!--==================================================-->
-
-<!-- Your contactUs.php view -->
 
 
 <?php include(APPPATH . 'Views/includes/footer.php'); ?>

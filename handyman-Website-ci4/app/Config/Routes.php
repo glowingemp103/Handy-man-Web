@@ -26,4 +26,7 @@ $routes->get('/contactUs', 'ContactUs');
 $routes->get('/getQuote', 'GetQuote');
 
 $routes->post('contactUs/sendMessage', 'ContactUs::sendMessage');
+// $routes->post('api/contactUs/sendMessage', 'ContactUs::sendMessage');
+// $routes->post('contactUs/sendMessage', 'ContactUs::sendMessage');
+
 
