@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Handyman	 </title>
+	<title>Homfixers	 </title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
@@ -61,7 +61,7 @@
 			<div class="col-md-8 col-lg-8">
 				<div class="dreamit-header-menu-address">
 					<ul>
-						<li><a href="#"><i class="far fa-envelope"></i> Info@handyman.ae</a></li>
+						<li><a href="#"><i class="far fa-envelope"></i> info@homfixers.com</a></li>
 						<li><span><i class="fas fa-map-marker-alt"></i>4912, Wilson Station, United Arab Emirates</span></li>
 						<li><a href="#"><i class="fas fa-phone"></i> +97150493160</a></li>
 					</ul>
@@ -91,10 +91,10 @@
 			<div class="col-lg-3">
 				<div class="logo">
 					<a class="logo_img" href="/" title="dreamit">
-						<img src="/assets/images/handyman-header-logo.png" alt="" />
+						<img src="/assets/images/homeFixers-logo.png" alt="" />
 					</a>
 					<a class="main_sticky" href="/" title="dreamit">
-						<img src="/assets/images/handyman-header-logo.png" alt="astute" />
+						<img src="/assets/images/homeFixers-logo.png" alt="astute" />
 					</a>
 				</div>
 			</div>
@@ -103,9 +103,9 @@
 					<ul class="nav_scroll">
 						<li><a href="/">Home</a></li>
 						<li><a href="/aboutUs">About</a></li>
-						<li><a href="/handymanService">Services <span><i class="fas fa-angle-down"></i></span></a>
+						<li><a href="/HomfixersService">Services <span><i class="fas fa-angle-down"></i></span></a>
 							<!-- <ul class="sub-menu">
-								<li><a href="/handymanService">Handyman Service</a></li>
+								<li><a href="/HomfixersService">Homfixers Service</a></li>
 								<li><a href="/electricianService">Electrician Service</a></li>
 								<li><a href="/plumbingService">Plumbing Service</a></li>
 								<li><a href="/repairService">Repair Service</a></li>
@@ -148,7 +148,7 @@
 			<ul class="nav_scroll">
 				<li><a href="#home">Home</a>
 					<!--<ul class="sub-menu">
-						<li><a href="index.html">Demo Handyman</a></li>
+						<li><a href="index.html">Demo Homfixers</a></li>
 						<li><a href="index-electrician.html">Demo Elecrician</a></li>
 						<li><a href="index-plumbing.html">Demo Plumbing</a></li>
 						<li><a href="index-repair.html">Demo Repair</a></li>
@@ -165,7 +165,7 @@
 				<li><a href="/aboutUs">About</a></li>
 				<li><a href="javascript:void(0)">Services <span><i class="fas fa-angle-down"></i></span></a>
 					<ul class="sub-menu">
-						<li><a href="/handymanService">Handyman Service</a></li>
+						<li><a href="/HomfixersService">Homfixers Service</a></li>
 						<li><a href="/electricianService">Electrician Service</a></li>
 						<li><a href="/plumbingService">Plumbing Service</a></li>
 						<li><a href="/repairService">Repair Service</a></li>

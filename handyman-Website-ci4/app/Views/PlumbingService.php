@@ -36,7 +36,7 @@
 				<div class="widget-service-box">
 					<div class="widget-service-menu">
 					<ul>
-							<li><a href="/handymanService"> Handyman Services <i class="fas fa-angle-right"></i></a></li>			
+							<li><a href="/HomfixersService"> Homfixers Services <i class="fas fa-angle-right"></i></a></li>			
 							<li><a href="/acMaintenance">AC Maintenance <i class="fas fa-angle-right"></i></a></li>
 							<li><a href="/carPenter">Carpenter Services <i class="fas fa-angle-right"></i></a></li>
 							<li><a href="/electricianService">Electrician Services <i class="fas fa-angle-right"></i></a></li>

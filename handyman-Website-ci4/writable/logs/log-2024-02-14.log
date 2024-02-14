@@ -1,0 +1,114 @@
+ERROR - 2024-02-14 14:36:37 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo for your-smtp-host.com failed: nodename nor servname provided, or not known in /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Email/Email.php:1885
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', '/Applications/M...', 1885)
+#1 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Email/Email.php(1885): fsockopen('your-smtp-host....', 587, NULL, NULL, 5)
+#2 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Email/Email.php(1798): CodeIgniter\Email\Email->SMTPConnect()
+#3 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Email/Email.php(1683): CodeIgniter\Email\Email->sendWithSmtp()
+#4 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Email/Email.php(1577): CodeIgniter\Email\Email->spoolEmail()
+#5 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/app/Controllers/ContactUs.php(44): CodeIgniter\Email\Email->send()
+#6 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/CodeIgniter.php(941): App\Controllers\ContactUs->sendMessage()
+#7 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ContactUs))
+#8 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#10 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Commands/Server/rewrite.php(47): require_once('/Applications/M...')
+#11 {main}
+ERROR - 2024-02-14 14:36:37 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2024-02-14 14:36:37 --> 
+ERROR - 2024-02-14 14:36:37 --> Email send failed: Unable to send email using SMTP. Your server might not be configured to send mail using this method.<br><pre>Date: Wed, 14 Feb 2024 14:36:37 +0000
+To: info@homfixers.com
+From: &quot;Chain of Change&quot; &lt;CFC@gmail.com&gt;
+Return-Path: &lt;CFC@gmail.com&gt;
+Subject: =?UTF-8?Q?Plumbing=20Service?=
+Reply-To: &lt;CFC@gmail.com&gt;
+User-Agent: CodeIgniter
+X-Sender: CFC@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;65cccff5ab61e8.31978823@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Name: Chain of Change
+Email: CFC@gmail.com
+Phone: 1672387712312
+Message: sakjdhsabdh
+</pre>
+ERROR - 2024-02-14 14:36:40 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo for your-smtp-host.com failed: nodename nor servname provided, or not known in /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Email/Email.php:1885
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', '/Applications/M...', 1885)
+#1 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Email/Email.php(1885): fsockopen('your-smtp-host....', 587, NULL, NULL, 5)
+#2 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Email/Email.php(1798): CodeIgniter\Email\Email->SMTPConnect()
+#3 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Email/Email.php(1683): CodeIgniter\Email\Email->sendWithSmtp()
+#4 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Email/Email.php(1577): CodeIgniter\Email\Email->spoolEmail()
+#5 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/app/Controllers/ContactUs.php(44): CodeIgniter\Email\Email->send()
+#6 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/CodeIgniter.php(941): App\Controllers\ContactUs->sendMessage()
+#7 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ContactUs))
+#8 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#10 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Commands/Server/rewrite.php(47): require_once('/Applications/M...')
+#11 {main}
+ERROR - 2024-02-14 14:36:40 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2024-02-14 14:36:40 --> 
+ERROR - 2024-02-14 14:36:40 --> Email send failed: Unable to send email using SMTP. Your server might not be configured to send mail using this method.<br><pre>Date: Wed, 14 Feb 2024 14:36:40 +0000
+To: info@homfixers.com
+From: &quot;Chain of Change&quot; &lt;CFC@gmail.com&gt;
+Return-Path: &lt;CFC@gmail.com&gt;
+Subject: =?UTF-8?Q?Plumbing=20Service?=
+Reply-To: &lt;CFC@gmail.com&gt;
+User-Agent: CodeIgniter
+X-Sender: CFC@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;65cccff8f14a80.71699797@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Name: Chain of Change
+Email: CFC@gmail.com
+Phone: 1672387712312
+Message: sakjdhsabdh
+</pre>
+ERROR - 2024-02-14 14:36:45 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo for your-smtp-host.com failed: nodename nor servname provided, or not known in /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Email/Email.php:1885
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', '/Applications/M...', 1885)
+#1 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Email/Email.php(1885): fsockopen('your-smtp-host....', 587, NULL, NULL, 5)
+#2 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Email/Email.php(1798): CodeIgniter\Email\Email->SMTPConnect()
+#3 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Email/Email.php(1683): CodeIgniter\Email\Email->sendWithSmtp()
+#4 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Email/Email.php(1577): CodeIgniter\Email\Email->spoolEmail()
+#5 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/app/Controllers/ContactUs.php(44): CodeIgniter\Email\Email->send()
+#6 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/CodeIgniter.php(941): App\Controllers\ContactUs->sendMessage()
+#7 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ContactUs))
+#8 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#10 /Applications/MAMP/htdocs/Handy-man-Web/handyman-Website-ci4/system/Commands/Server/rewrite.php(47): require_once('/Applications/M...')
+#11 {main}
+ERROR - 2024-02-14 14:36:45 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2024-02-14 14:36:45 --> 
+ERROR - 2024-02-14 14:36:45 --> Email send failed: Unable to send email using SMTP. Your server might not be configured to send mail using this method.<br><pre>Date: Wed, 14 Feb 2024 14:36:45 +0000
+To: info@homfixers.com
+From: &quot;Chain of Change&quot; &lt;CFC@gmail.com&gt;
+Return-Path: &lt;CFC@gmail.com&gt;
+Subject: =?UTF-8?Q?Plumbing=20Service?=
+Reply-To: &lt;CFC@gmail.com&gt;
+User-Agent: CodeIgniter
+X-Sender: CFC@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;65cccffd538208.18169304@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Name: Chain of Change
+Email: CFC@gmail.com
+Phone: 1672387712312
+Message: sakjdhsabdh
+</pre>

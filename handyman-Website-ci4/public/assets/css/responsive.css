@@ -8,7 +8,7 @@
 /* Normal desktop :992px. */
 @media (min-width: 992px) and (max-width: 1199px) {
 a.logo_img img {
-    width: 100% !important;
+    width: 70% !important;
 }
 a.main_sticky img {
     width: 100%!important;

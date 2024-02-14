@@ -38,15 +38,15 @@
 						<div class="dreamit-section-title text-left">
 							<h5>TEAM EXPERT</h5>
 							<h2>1-2 years Experience In The</h2>
-							<h2>Team  <span>Handyman</span></h2>
+							<h2>Team  <span>Homfixers</span></h2>
 							<div class="em_bar_bg text-left"></div>
-							<p>Welcome to Team Handyman, where expertise meets dedication. With 1-2 years of experience, our skilled team is committed to delivering top-notch services tailored to your needs. From plumbing to electrical solutions, we are your trusted partner in crafting perfection for your home. Experience the difference with Team Handyman—your go-to choice for quality home services.</p>
+							<p>Welcome to Team Homfixers, where expertise meets dedication. With 1-2 years of experience, our skilled team is committed to delivering top-notch services tailored to your needs. From plumbing to electrical solutions, we are your trusted partner in crafting perfection for your home. Experience the difference with Team Homfixers—your go-to choice for quality home services.</p>
 						</div>
 						<!-- <div class="section-title-text">
 							<p>There are many variations of passages of Lorem Ipsum a available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly this believable. If you are going to use a passage of Lorem Ipsum,</p>
 						</div> -->
 						<div class="stat-levels">
-					<h6>Handyman Experience</h6>
+					<h6>Homfixers Experience</h6>
 				  <div class="stat-1 stat-bar">
 				  	 <div class="stat-bar-rating" style="width: 94%;"><span class="percent">90%</span></div>
 				  </div>

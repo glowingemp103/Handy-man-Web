@@ -59,13 +59,13 @@
 								<div class="card-header" id="headingone">
 									<h5 class="mb-0">
 										<button class="btn btn-link" data-toggle="collapse" data-target="#collapseone" aria-expanded="true" aria-controls="collapseone">
-											1. What services does Handyman offer?
+											1. What services does Homfixers offer?
 										</button>
 									</h5>
 								</div>
 
 								<div id="collapseone" class="collapse show" aria-labelledby="headingone" data-parent="#accordion">
-									<div class="card-body">Handyman provides a range of home services, including plumbing, electrical work, painting, carpentry, cleaning, and roof maintenance. Our skilled professionals ensure the highest standards in every task.
+									<div class="card-body">Homfixers provides a range of home services, including plumbing, electrical work, painting, carpentry, cleaning, and roof maintenance. Our skilled professionals ensure the highest standards in every task.
 									</div>
 								</div>
 							</div>
@@ -73,7 +73,7 @@
 								<div class="card-header" id="headingtwo">
 									<h5 class="mb-0">
 										<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapsetwo" aria-expanded="false" aria-controls="collapsetwo">
-											2. How can I request a service from Handyman?
+											2. How can I request a service from Homfixers?
 										</button>
 									</h5>
 								</div>
@@ -92,7 +92,7 @@
 									</h5>
 								</div>
 								<div id="collapsethree" class="collapse" aria-labelledby="headingthree" data-parent="#accordion">
-									<div class="card-body">Yes, Handyman offers services across the UAE. Whether you're in Dubai, Abu Dhabi, or any other emirate, our team is ready to assist you with your home service needs. We bring our expertise to your doorstep.
+									<div class="card-body">Yes, Homfixers offers services across the UAE. Whether you're in Dubai, Abu Dhabi, or any other emirate, our team is ready to assist you with your home service needs. We bring our expertise to your doorstep.
 									</div>
 								</div>
 							</div>
@@ -100,7 +100,7 @@
 								<div class="card-header" id="headingefour">
 									<h5 class="mb-0">
 										<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
-											4. How does Handyman ensure customer satisfaction?
+											4. How does Homfixers ensure customer satisfaction?
 										</button>
 									</h5>
 								</div>

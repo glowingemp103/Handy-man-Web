@@ -43,14 +43,14 @@
 						<div class="dreamit-section-title text-left">
 							<h5>About</h5>
 							<h2>1-2 years Experience In</h2>
-							<h2>The Handyman </h2>
+							<h2>The Homfixers </h2>
 							<div class="em_bar_bg text-left"></div>
-							<p>Crafting Excellence in Handyman & Plumbing Services for Two Decades, Building Trust Through Masterful Artistry and Unparalleled Customer Satisfaction in Every Home Service Endeavor.</p>
+							<p>Crafting Excellence in Homfixers & Plumbing Services for Two Decades, Building Trust Through Masterful Artistry and Unparalleled Customer Satisfaction in Every Home Service Endeavor.</p>
 						</div>
 					</div>
 					<div class="col-lg-6">
 						<div class="about-content-text pt-2">
-							<p><i class="far fa-check-circle"></i> <span>Handyman Service</span></p>
+							<p><i class="far fa-check-circle"></i> <span>Homfixers Service</span></p>
 						</div>
 						<div class="about-content-text">
 							<p><i class="far fa-check-circle"></i> <span>AC Maintenance Service</span></p>
@@ -76,7 +76,7 @@
 							<p><i class="far fa-check-circle"></i> <span>Plumbing Service</span></p>
 						</div>
 						<div class="about-content-text">
-							<p><i class="far fa-check-circle"></i> <span>Handyman Services</span></p>
+							<p><i class="far fa-check-circle"></i> <span>Homfixers Services</span></p>
 						</div>
 						<div class="about-content-text">
 							<p><i class="far fa-check-circle"></i> <span>Emergency Service</span></p>
@@ -185,7 +185,7 @@
 						<div class="dreamit-section-title text-left">
 							<h5>Company</h5>
 							<h2>1-2 years Experience In The</h2>
-							<h2>Team  <span>Handyman</span></h2>
+							<h2>Team  <span>Homfixers</span></h2>
 							<div class="em_bar_bg text-left"></div>
 							<p>Proin gravida nibh vel velit auctor aliquet. sollicitudi lorem quis bibendum auctor, nisi elit consequat ipsum, sagittis sem nibh elit veniam, quis nostrud exercitation</p>
 						</div>
@@ -193,7 +193,7 @@
 							<p>There are many variations of passages of Lorem Ipsum a available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly this believable. If you are going to use a passage of Lorem Ipsum,</p>
 						</div>
 						<div class="stat-levels">
-					<h6>Handyman Experience</h6>
+					<h6>Homfixers Experience</h6>
 				  <div class="stat-1 stat-bar">
 				  	 <div class="stat-bar-rating" style="width: 90%;"><span class="percent">90%</span></div>
 				  </div>

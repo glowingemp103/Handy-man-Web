@@ -137,9 +137,9 @@
 						<div class="dreamit-section-title text-left">
 							<h5>About</h5>
 							<h2>1-2 years Experience In </h2>
-							<h2>The <span>Handyman</span> </h2>
+							<h2>The <span>Homfixers</span> </h2>
 							<div class="em_bar_bg text-left"></div>
-							<p>Crafting Excellence in Handyman & Plumbing Services for Two Decades, Building Trust Through Masterful Artistry and Unparalleled Customer Satisfaction in Every Home Service Endeavor.</p>
+							<p>Crafting Excellence in Homfixers & Plumbing Services for Two Decades, Building Trust Through Masterful Artistry and Unparalleled Customer Satisfaction in Every Home Service Endeavor.</p>
 						</div>
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12">
@@ -163,7 +163,7 @@
 							<p><i class="far fa-check-circle"></i> <span>Decades of Excellence: Rich history, unmatched expertise.</span></p>
 						</div>
 						<div class="about-content-text">
-							<p><i class="far fa-check-circle"></i> <span>Crafting Perfection: Masterful in handyman and plumbing.</span></p>
+							<p><i class="far fa-check-circle"></i> <span>Crafting Perfection: Masterful in Homfixers and plumbing.</span></p>
 						</div>
 						<div class="about-content-text">
 							<p><i class="far fa-check-circle"></i> <span>Reliable Partner: 11-2 years of trusted quality service.</span></p>
@@ -196,7 +196,7 @@
 				<div class="dreamit-section-title white text-center pb-30">
 					<h5>OUR SERVICES</h5>
 					<h2>We Provide One Of The Best</h2>
-					<h2>Handyman <span>Services</span></h2>
+					<h2>Homfixers <span>Services</span></h2>
 					<div class="em_bar_bg text-left"></div>
 				</div>
 			</div>
@@ -320,7 +320,7 @@
 					<p>Delivering excellence in every task. Our commitment to quality ensures your satisfaction. With a customer-centric approach, we strive to exceed your expectations.</p>
 				</div>
 				 <div class="prossess-ber-plugin pt-4 wow fadeInLeft" data-wow-delay=".5">
-                    <span class="prosses-bar">Handyman Experience</span>
+                    <span class="prosses-bar">Homfixers Experience</span>
                     <div id="bar1" class="barfiller">
                         <div class="tipWrap">
                             <span class="tip"></span>
@@ -373,7 +373,7 @@
 			<div class="col-lg-12 col-sm-12">
 				<div class="dreamit-section-title white text-center">
 					<h5>CASE STUDY WORK</h5>
-					<h2>Handyman Best Work &</h2>
+					<h2>Homfixers Best Work &</h2>
 					<h2>Solution Project</h2>
 					<div class="em_bar_bg text-left"></div>
 				</div>
@@ -554,14 +554,14 @@
 					<h2>Our Company Is At Your</h2>
 					<h2>Service At <span>All Times</span></h2>
 					<div class="em_bar_bg text-left"></div>
-					<p>Elevate Your Home Experience with Handyman's Unsurpassed 24/7 Service Excellence, Where Customer Satisfaction Takes Center Stage</p>
+					<p>Elevate Your Home Experience with Homfixers's Unsurpassed 24/7 Service Excellence, Where Customer Satisfaction Takes Center Stage</p>
 				</div>
 				<div class="dreamit-counter-text pt-3">
 					<div class="counter-text-icon">
 						<i class="fas fa-check"></i>
 					</div>
 					<div class="right-box">
-						<p>Prompt and Reliable Assistance: Handyman is committed to providing swift and reliable assistance whenever you need it. Our team is available 24/7 to address your home service requirements promptly.</p>
+						<p>Prompt and Reliable Assistance: Homfixers is committed to providing swift and reliable assistance whenever you need it. Our team is available 24/7 to address your home service requirements promptly.</p>
 					</div>
 				</div>
 				<div class="dreamit-counter-text">
@@ -569,7 +569,7 @@
 						<i class="fas fa-check"></i>
 					</div>
 					<div class="right-box">
-						<p>Customer-Centric Approach: With a customer-centric approach, Handyman ensures that your satisfaction is our top priority. Our services are tailored to meet your needs, ensuring a seamless and exceptional experience.</p>
+						<p>Customer-Centric Approach: With a customer-centric approach, Homfixers ensures that your satisfaction is our top priority. Our services are tailored to meet your needs, ensuring a seamless and exceptional experience.</p>
 					</div>
 				</div>
 				<div class="dreamit-button">
@@ -704,7 +704,7 @@
 							<div class="testi-icon">
 								<i class="fas fa-quote-left"></i>
 							</div>
-							<div class="testimonial-text">Handyman's cleaning team transformed my home! Impeccable attention to detail and a spotless finish. I highly recommend their thorough and professional cleaning services.</div>
+							<div class="testimonial-text">Homfixers's cleaning team transformed my home! Impeccable attention to detail and a spotless finish. I highly recommend their thorough and professional cleaning services.</div>
 						</div>
 						<div class="testimonial-thumb">
 							<img src="assets/images/resource/member1.png" alt="">
@@ -721,7 +721,7 @@
 							<div class="testi-icon">
 								<i class="fas fa-quote-left"></i>
 							</div>
-							<div class="testimonial-text">Exceptional service! The electricians from Handyman not only fixed the issue promptly but also explained the process in a way I could understand. Reliable and skilled professionals!</div>
+							<div class="testimonial-text">Exceptional service! The electricians from Homfixers not only fixed the issue promptly but also explained the process in a way I could understand. Reliable and skilled professionals!</div>
 						</div>
 						<div class="testimonial-thumb">
 							<img src="assets/images/resource/member2.png" alt="">
@@ -738,7 +738,7 @@
 							<div class="testi-icon">
 								<i class="fas fa-quote-left"></i>
 							</div>
-							<div class="testimonial-text">Handyman's cleaning team transformed my home! Impeccable attention to detail and a spotless finish. I highly recommend their thorough and professional cleaning services.</div>
+							<div class="testimonial-text">Homfixers's cleaning team transformed my home! Impeccable attention to detail and a spotless finish. I highly recommend their thorough and professional cleaning services.</div>
 						</div>
 						<div class="testimonial-thumb">
 							<img src="assets/images/resource/member3.png" alt="">
@@ -755,7 +755,7 @@
 							<div class="testi-icon">
 								<i class="fas fa-quote-left"></i>
 							</div>
-							<div class="testimonial-text">Another outstanding experience with Handyman's cleaning crew! They consistently deliver quality service, leaving my home fresh and tidy. A trustworthy choice for all your cleaning needs.</div>
+							<div class="testimonial-text">Another outstanding experience with Homfixers's cleaning crew! They consistently deliver quality service, leaving my home fresh and tidy. A trustworthy choice for all your cleaning needs.</div>
 						</div>
 						<div class="testimonial-thumb">
 							<img src="assets/images/resource/member4.png" alt="">

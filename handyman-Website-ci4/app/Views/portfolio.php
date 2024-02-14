@@ -10,7 +10,7 @@
 			<div class="col-lg-12">
 				<div class="dreamit-section-title text-center pb-30">
 					<h5>CASE STUDY WORK</h5>
-					<h2>Handyman Best Work &</h2>
+					<h2>Homfixers Best Work &</h2>
 					<h2>Solution <span>Projects</span></h2>
 					<div class="em_bar_bg text-left"></div>
 				</div>

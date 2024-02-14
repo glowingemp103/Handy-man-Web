@@ -41,9 +41,9 @@
 						<div class="dreamit-section-title text-left">
 							<h5>About</h5>
 							<h2>1-2 years Experience In</h2>
-							<h2>The Handyman </h2>
+							<h2>The Homfixers </h2>
 							<div class="em_bar_bg text-left"></div>
-							<p>Crafting Excellence in Handyman & Plumbing Services for Two Decades, Building Trust Through Masterful Artistry and Unparalleled Customer Satisfaction in Every Home Service Endeavor.</p>
+							<p>Crafting Excellence in Homfixers & Plumbing Services for Two Decades, Building Trust Through Masterful Artistry and Unparalleled Customer Satisfaction in Every Home Service Endeavor.</p>
 						</div>
 					</div>
 					<div class="col-lg-6 col-sm-12">
@@ -364,7 +364,7 @@
 				<div class="dreamit-section-title text-center pb-30">
 					<h5>OUR BLOG</h5>
 					<h2>Our Latest Newspaper &</h2>
-					<h2>Handyman <span>Articles</span></h2>
+					<h2>Homfixers <span>Articles</span></h2>
 					<div class="em_bar_bg text-left"></div>
 				</div>
 			</div>
@@ -383,7 +383,7 @@
 						</div>
 						<div class="single_blog_content">
 							<div class="dreamit_blog_meta">
-								<a href="#">dit-handyman</a>
+								<a href="#">dit-Homfixers</a>
 							</div>
 							<div class="post-categories">
 								<a href="#">July 10,2021</a>
@@ -409,7 +409,7 @@
 						</div>
 						<div class="single_blog_content">
 							<div class="dreamit_blog_meta">
-								<a href="#">dit-handyman</a>
+								<a href="#">dit-Homfixers</a>
 							</div>
 							<div class="post-categories">
 								<a href="#">July 10,2021</a>
@@ -435,7 +435,7 @@
 						</div>
 						<div class="single_blog_content">
 							<div class="dreamit_blog_meta">
-								<a href="#">dit-handyman <span></span></a>
+								<a href="#">dit-Homfixers <span></span></a>
 							</div>
 							<div class="post-categories">
 								<a href="#">July 10,2021</a>
@@ -461,7 +461,7 @@
 						</div>
 						<div class="single_blog_content">
 							<div class="dreamit_blog_meta">
-								<a href="#">dit-handyman <span></span></a>
+								<a href="#">dit-Homfixers <span></span></a>
 							</div>
 							<div class="post-categories">
 								<a href="#">July 10,2021</a>
@@ -481,13 +481,13 @@
 							<a href="blog-details.html"><img src="assets/images/resource/blog5.jpg" alt="" /></a>
 							<div class="dreamit-meta-blog-top">
 								<ul>
-									<li><a href="#">Handyman</a></li>
+									<li><a href="#">Homfixers</a></li>
 								</ul>
 							</div>
 						</div>
 						<div class="single_blog_content">
 							<div class="dreamit_blog_meta">
-								<a href="#">dit-handyman <span></span></a>
+								<a href="#">dit-Homfixers <span></span></a>
 							</div>
 							<div class="post-categories">
 								<a href="#">July 10,2021</a>
@@ -513,7 +513,7 @@
 						</div>
 						<div class="single_blog_content">
 							<div class="dreamit_blog_meta">
-								<a href="#">dit-handyman <span></span></a>
+								<a href="#">dit-Homfixers <span></span></a>
 							</div>
 							<div class="post-categories">
 								<a href="#">July 10,2021</a>
@@ -533,13 +533,13 @@
 							<a href="blog-details.html"><img src="assets/images/resource/blog7.jpg" alt="" /></a>
 							<div class="dreamit-meta-blog-top">
 								<ul>
-									<li><a href="#">Handyman</a></li>
+									<li><a href="#">Homfixers</a></li>
 								</ul>
 							</div>
 						</div>
 						<div class="single_blog_content">
 							<div class="dreamit_blog_meta">
-								<a href="#">Dit-handyman <span></span></a>
+								<a href="#">Dit-Homfixers <span></span></a>
 							</div>
 							<div class="post-categories">
 								<a href="#">July 10,2021</a>
@@ -565,7 +565,7 @@
 						</div>
 						<div class="single_blog_content">
 							<div class="dreamit_blog_meta">
-								<a href="#">Dit-handyman <span></span></a>
+								<a href="#">Dit-Homfixers <span></span></a>
 							</div>
 							<div class="post-categories">
 								<a href="#">July 10,2021</a>

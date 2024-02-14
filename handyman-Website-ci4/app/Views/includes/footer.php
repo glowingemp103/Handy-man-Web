@@ -9,11 +9,11 @@
 				<div class="widget widgets-company-info">
 					<div class="dreamit-logo">
 						<a class="logo_img" href="index.html" title="dreamit">
-							<img src="/assets/images/handyman-footer-logo.png" alt="" />
+							<img src="/assets/images/homeFixers-logo.png" alt="" />
 						</a>
 					</div>
 					<div class="company-info-desc pr-2">
-						<p>Welcome to Handyman, the globally acclaimed home service provider in the UAE, where excellence meets every home need.</p>
+						<p>Welcome to Homfixers, the globally acclaimed home service provider in the UAE, where excellence meets every home need.</p>
 					</div>
 					<div class="company_icon">
 						<a class="facebook" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -29,11 +29,11 @@
 					<div class="menu-quick-link-content">
 						<ul class="menu">
 
-							<li><a href="/handymanService">Handyman Services </a></li>
+							<li><a href="/HomfixersService">Homfixers Services </a></li>
 							<li><a href="/acMaintenance">AC Maintenance </a></li>
 							<li><a href="/electricianService">Electrician Services</a></li>
 							<li><a href="/plumbingService">Plumbing Services</a></li>
-							<li><a href="/handymanService">Carpenter Services</a></li>
+							<li><a href="/HomfixersService">Carpenter Services</a></li>
 						</ul>
 					</div>
 				</div>
@@ -109,7 +109,7 @@
 							<div class="footer-socail-info">
 								<p>
 									<span>Email:</span>
-									<br>Info@handyman.ae
+									<br>info@homfixers.com
 								</p>
 							</div>
 						</div>
@@ -121,7 +121,7 @@
 			<div class="col-lg-6 col-md-6">
 				<div class="footer-bottom-content">
 					<div class="footer-bottom-content-copy">
-						<p>Copyright © Handyman all rights reserved.</p>
+						<p>Copyright © Homfixers all rights reserved.</p>
 					</div>
 				</div>
 			</div>

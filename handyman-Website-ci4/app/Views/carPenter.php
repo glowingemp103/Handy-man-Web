@@ -36,7 +36,7 @@
 				<div class="widget-service-box">
 					<div class="widget-service-menu">
 						<ul>
-							<li><a href="/handymanService">Handyman Service <i class="fas fa-angle-right"></i></a></li>			
+							<li><a href="/HomfixersService">Homfixers Service <i class="fas fa-angle-right"></i></a></li>			
 							<li><a href="/acMaintenance">AC Maintenance <i class="fas fa-angle-right"></i></a></li>
 							<li><a class="current" href="/carPenter">Carpenter Services <i class="fas fa-angle-right"></i></a></li>
 							<li><a href="/electricianService">Electrician Services <i class="fas fa-angle-right"></i></a></li>
@@ -66,7 +66,7 @@
 					<div class="elementor-widget-title1">
 						<h2>Carpenter Service</h2>
 						<p>Experience the artistry of our carpentry services as we bring a touch of excellence to your home. Our skilled carpenters are dedicated to turning your visions into reality, delivering custom furniture and intricate woodwork that seamlessly blend creativity with precision. Whether it's crafting bespoke pieces or enhancing existing structures, our commitment to quality ensures that every project stands as a testament to enduring craftsmanship.</p>
-                        <p>At Handyman, we prioritize not just the construction but the transformation of your living spaces. From the initial design concept to the final finishing touches, our carpenters take pride in delivering results that marry functionality with aesthetics. Trust us to elevate your home with durable, beautiful, and timeless carpentry solutions that reflect our passion for creating spaces that inspire.</p>
+                        <p>At Homfixers, we prioritize not just the construction but the transformation of your living spaces. From the initial design concept to the final finishing touches, our carpenters take pride in delivering results that marry functionality with aesthetics. Trust us to elevate your home with durable, beautiful, and timeless carpentry solutions that reflect our passion for creating spaces that inspire.</p>
 					</div>
 				</div>
 				<div class="row">

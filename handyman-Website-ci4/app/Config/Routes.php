@@ -9,7 +9,7 @@ use CodeIgniter\Router\RouteCollection;
 $routes->get('/', 'Home');
 $routes->get('/aboutUs', 'AboutUs');
 
-$routes->get('/handymanService', 'HandymanService');
+$routes->get('/HomfixersService', 'HomfixersService');
 $routes->get('/electricianService', 'ElectricianService');
 $routes->get('/plumbingService', 'PlumbingService');
 $routes->get('/repairService', 'RepairService');

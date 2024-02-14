@@ -36,7 +36,7 @@ class ContactUs extends Controller
         $subject = $this->request->getPost('service');
         $message = $this->request->getPost('message');
 
-        $email->setTo('glowingemp103@gmail.com');
+        $email->setTo('info@homfixers.com');
         $email->setFrom($emailAddress, $name);
         $email->setSubject($subject);
         $email->setMessage("Name: $name\nEmail: $emailAddress\nPhone: $phone\nMessage: $message");

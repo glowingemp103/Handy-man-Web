@@ -150,7 +150,7 @@ Version: 0.1
     float: right;
 }
 .logo img {
-    width: 85%;
+    width: 50%;
 }
 .dreamit_menu ul {
     text-align: center;
@@ -4614,7 +4614,7 @@ span.bottom-m {
 --< dreamit counter Area Css -->
 ======================================================*/
 .dreamit-single-counter-box {
-    background: url("http://wp.dreamitsolution.net/dreamit/dreamit-handyman/wp-content/uploads/2021/04/counter-bg1.jpg");
+    background: url("http://wp.dreamitsolution.net/dreamit/dreamit-Homfixers/wp-content/uploads/2021/04/counter-bg1.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -5450,7 +5450,7 @@ form#contact_form {
     padding: 82px 0 33px;
 }
 .dreamit-logo img {
-    width: 80%;
+    width: 60%;
 }
 .dreamit-logo {
     margin-bottom: 23px;

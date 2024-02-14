@@ -34,7 +34,7 @@
 				<div class="widget-service-box">
 					<div class="widget-service-menu">
 						<ul>
-							<li><a href="/handymanService"> Handyman Services <i class="fas fa-angle-right"></i></a></li>			
+							<li><a href="/HomfixersService"> Homfixers Services <i class="fas fa-angle-right"></i></a></li>			
 							<li><a class="current" href="/acMaintenance">AC Maintenance <i class="fas fa-angle-right"></i></a></li>
 							<li><a href="/carPenter">Carpenter Services <i class="fas fa-angle-right"></i></a></li>
 							<li><a href="/electricianService">Electrician Services <i class="fas fa-angle-right"></i></a></li>
@@ -63,7 +63,7 @@
 					<img src="assets/images/project/img2.jpg" alt="">
 					<div class="elementor-widget-title1">
 						<h2>Description For AC Maintenance Services</h2>
-						<p>Stay Cool, Stay Efficient: Our AC Maintenance Service is your ticket to a reliably comfortable home. Our skilled technicians specialize in thorough inspections, cleaning, and troubleshooting to ensure your air conditioning system runs at peak performance. From regular tune-ups to addressing specific issues, we prioritize proactive maintenance to extend the lifespan of your unit and optimize energy efficiency. Experience the peace of mind that comes with a well-maintained AC system, providing you with uninterrupted comfort, improved air quality, and cost-effective cooling solutions. At Handyman, we keep your cool, always.</p>
+						<p>Stay Cool, Stay Efficient: Our AC Maintenance Service is your ticket to a reliably comfortable home. Our skilled technicians specialize in thorough inspections, cleaning, and troubleshooting to ensure your air conditioning system runs at peak performance. From regular tune-ups to addressing specific issues, we prioritize proactive maintenance to extend the lifespan of your unit and optimize energy efficiency. Experience the peace of mind that comes with a well-maintained AC system, providing you with uninterrupted comfort, improved air quality, and cost-effective cooling solutions. At Homfixers, we keep your cool, always.</p>
 					</div>
 				</div>
 				<div class="row">
