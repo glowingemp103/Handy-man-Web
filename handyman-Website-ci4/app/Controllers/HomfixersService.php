@@ -6,6 +6,6 @@ class HomfixersService extends BaseController
 {
     public function index()
     {   
-        return view('HomfixersService');
+        return view('homfixersService');
     }
 }

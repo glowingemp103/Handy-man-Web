@@ -52,7 +52,7 @@
 							</div>	
 							<div class="call-center-title">
 								<h3>24 Hours</h3>
-								<p>+97150493160</p>
+								<p>+971 55 763 4133</p>
 							</div>
 						</div>
 					</div>

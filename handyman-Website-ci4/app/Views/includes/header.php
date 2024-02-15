@@ -63,7 +63,7 @@
 					<ul>
 						<li><a href="#"><i class="far fa-envelope"></i> info@homfixers.com</a></li>
 						<li><span><i class="fas fa-map-marker-alt"></i>4912, Wilson Station, United Arab Emirates</span></li>
-						<li><a href="#"><i class="fas fa-phone"></i> +97150493160</a></li>
+						<li><a href="#"><i class="fas fa-phone"></i> +971 55 763 4133</a></li>
 					</ul>
 				</div>
 			</div>
@@ -203,7 +203,7 @@
 						<h1>Repairer Offers </h1>
 						<p>Have a plumbing issue? Call 24 hours emergency services all time.</p>
 						<div class="hero-text">
-							<i class="fas fa-phone"></i> <span>+97150493160</span>
+							<i class="fas fa-phone"></i> <span>+971 55 763 4133</span>
 						</div>
 						<div class="slider-button">
 							<a href="#">Get Started</a>
@@ -226,7 +226,7 @@
 						<h1>Repairer Offers </h1>
 						<p>Have a plumbing issue? Call 24 hours emergency services all time.</p>
 						<div class="hero-text">
-							<i class="fas fa-phone"></i> <span>+97150493160</span>
+							<i class="fas fa-phone"></i> <span>+971 55 763 4133</span>
 						</div>
 						<div class="slider-button">
 							<a href="#">Get Started</a>

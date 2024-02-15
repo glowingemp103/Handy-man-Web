@@ -15,7 +15,7 @@
 						<h1>Repairer Offers </h1>
 						<p>Have a plumbing issue? Call 24 hours emergency services all time.</p>
 						<div class="hero-text">
-							<i class="fas fa-phone"></i> <span>+97150493160</span>
+							<i class="fas fa-phone"></i> <span>+971 55 763 4133</span>
 						</div>
 						<div class="slider-button">
 							<a href="#">Get Started</a>
@@ -38,7 +38,7 @@
 						<h1>Repairer Offers </h1>
 						<p>Have a plumbing issue? Call 24 hours emergency services all time.</p>
 						<div class="hero-text">
-							<i class="fas fa-phone"></i> <span>+97150493160</span>
+							<i class="fas fa-phone"></i> <span>+971 55 763 4133</span>
 						</div>
 						<div class="slider-button">
 							<a href="#">Get Started</a>
